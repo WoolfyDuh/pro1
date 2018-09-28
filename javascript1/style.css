@@ -1,0 +1,9 @@
+h1 {
+    display: block;
+    font-size: 4em;
+    -webkit-margin-before: 1.34em;
+    -webkit-margin-after: 1.34em;
+    -webkit-margin-start: 1px;
+    -webkit-margin-end: 1px;
+    font-weight: strong;
+}
